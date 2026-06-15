@@ -1,12 +1,12 @@
 {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "description": "Modernized SDL3 build of the Zod Engine (remake of the 1996 RTS 'Z'). EXPERIMENTAL Windows build.",
     "homepage": "https://github.com/fenio/zod",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fenio/zod/releases/download/v0.4.3/zod-windows-x86_64.zip",
-            "hash": "56276c2d3b0233953cbc1bdfc771dfb3461478603d6e16d05d0682177772b89d",
+            "url": "https://github.com/fenio/zod/releases/download/v0.4.4/zod-windows-x86_64.zip",
+            "hash": "fe62a6fcea5494b335596328ca7ea8af0a0cd00896934377d06cec5dabefb47c",
             "extract_dir": "zod-windows-x86_64"
         }
     },
